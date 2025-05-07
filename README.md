@@ -89,7 +89,7 @@ The main experimental script/notebook is `[SC3000_TinJingLunJavier_SDAE_StillPon
 
 ## Results Summary
 
-*(Briefly summarize your key findings here, similar to your "Comparison and Conclusion" section. You can include a screenshot of your results table or link to a more detailed report if you have one.)*
+
 
 *   **Best Performing Agent:** Improved Monte Carlo (MC_Improved) with an average reward of **445.57**.
 *   **Standard DQN (DQN_Original):** Successfully solved the task with an average reward of **217.32**.
